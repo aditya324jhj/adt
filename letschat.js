@@ -5,5 +5,3 @@ function addUser() {
 
     window.location = "letschat.html";
 }
-
-
